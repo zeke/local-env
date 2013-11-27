@@ -1,0 +1,20 @@
+{
+  "name": "local-env",
+  "version": "0.1.0",
+  "description": "Load your .env file into process.env",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "zeke",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeke/local-env"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "~2.3.0"
+  }
+}
